@@ -1,0 +1,27 @@
+[project]
+name = "abliteration"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.15.0",
+    "ddgs>=9.16.1",
+    "deepface>=0.0.105",
+    "einops>=0.8.2",
+    "fastai>=2.8.12",
+    "fastbook>=0.0.29",
+    "huggingface-hub>=1.33.0",
+    "ipykernel>=7.4.0",
+    "jaxtyping>=0.3.11",
+    "mediapipe>=1.2.3",
+    "pillow-heif>=1.8.1",
+    "pymobiledevice3>=11.57.0",
+    "safetensors>=0.8.0",
+    "tiktoken>=0.14.0",
+    "torch>=2.15.0",
+    "transformer-lens<4.0",
+    "transformers>=5.23.0",
+    "transformers-stream-generator>=0.0.5",
+    "voila>=0.5.13",
+]

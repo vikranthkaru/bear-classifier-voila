@@ -1,0 +1,16 @@
+.venv/
+bears/
+images/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+.env
+bird_or_not/
+checkpoints/
+grouped_results/
+models/
+photos/
+reports/
+*.jpg
